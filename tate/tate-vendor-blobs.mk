@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/amazon/tate/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
-    vendor/amazon/tate/proprietary/xbin/setpropex:system/xbin/setpropex \
     vendor/amazon/tate/proprietary/vendor/firmware/bcm2076_20mhz.hcd:system/vendor/firmware/bcm2076_20mhz.hcd \
     vendor/amazon/tate/proprietary/bin/atmel_touch.sh:system/bin/atmel_touch.sh \
     vendor/amazon/tate/proprietary/bin/start_smc.sh:system/bin/start_smc.sh \
