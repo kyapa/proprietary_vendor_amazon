@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/tate/proprietary/lib/hw/sensors.omap4.so:system/lib/hw/sensors.omap4.so \
     vendor/amazon/tate/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/amazon/tate/proprietary/lib/libmllite.so:system/lib/libmllite.so \
-    vendor/amazon/tate/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
     vendor/amazon/tate/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/amazon/tate/proprietary/vendor/firmware/ducati-m3.bin:system/vendor/firmware/ducati-m3.bin \
     vendor/amazon/tate/proprietary/vendor/etc/smc_normal_world_android_cfg.ini:system/vendor/etc/smc_normal_world_android_cfg.ini \
